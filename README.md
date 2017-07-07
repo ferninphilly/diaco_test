@@ -18,7 +18,7 @@ I have attempted to work within this constraint and as such I am sending you thi
 So to complete this I utilized python 3.6 and FLASK for most of the work with BeautifulSoup used to scrape YELP. 
 So- to get this up and running please do the following: 
 
-1. Clone the repo to your local directory and navigate to the root directory of the project
+1. Clone the repo to your local directory and navigate to the diaco_app directory of the project (diaco_app folder)
 2. _If you want to_ go ahead and activate the virtualenv with `source bin/activate`
 3. Assuming you have python 3.6 installed go ahead and `pip install -r requirements.txt`
 4. While still in the root directory of the project you will need to alter your FLASK_APP environment variable so:
