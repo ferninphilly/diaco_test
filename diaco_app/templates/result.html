@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+   <body>
+     <h1><center>{{ result[0] }}</h1></center>
+     <table>
+         {% for each in result[1] %}
+           {{ each }}
+          <p> ------------ </p>
+         {% endfor %}
+     </table>
+      <a href="http://localhost:5000">Return To Homepage</a>
+   </body>
+
+</html>
