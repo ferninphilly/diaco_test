@@ -1,13 +1,11 @@
 # My Diaco take home test app! 
 
-### Thanks so much for the opportunity to put this together! It was genuinely a fun project and I am 
+## Caveats
 
-### really, really excited to talk to Dia & Co!! I want to take a quick moment to add a few caveats here:
-
-### So when Gem told me about this project she gave me a time limit of four hours to complete. 
-### I have attempted to work within this constraint and as such I am sending you this app without testing, 
-### error catching, or style sheets (all stuff I would normally add!). This app was completed in 
-### four hours on July 6, 2017. 
+Thanks so much for the opportunity to put this together! It was genuinely a fun project and I am 
+really, really excited to talk to Dia & Co!! I want to take a quick moment to add a few caveats here:
+So when Gem told me about this project she gave me a time limit of four hours to complete. 
+I have attempted to work within this constraint and as such I am sending you this app without testing,error catching, or style sheets (all stuff I would normally add!). This app was completed in four hours on July 6, 2017. 
 
 #### So here is what I was tasked to complete: 
 >Build a web page that accepts the name of a pizza restaurant in New York and displays the n most recent Yelp reviews for this >restaurant, where n is a user input (assume n < 10).
