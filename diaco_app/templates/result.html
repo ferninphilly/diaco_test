@@ -1,7 +1,9 @@
 <!doctype html>
 <html>
    <body>
-     <h1><center>{{ result[0] }}</h1></center>
+     <h1><center>Restaurant: {{ result[0].title() }}</h1></center>
+     <h2><center>You have chosen to see the {{ result[3] }} most recent reviews</center></h2>
+     <h3><center>Avg Star Reviews for relevant reviews: {{ result[2] }} </h3></center>
      <table>
          {% for each in result[1] %}
            {{ each }}
